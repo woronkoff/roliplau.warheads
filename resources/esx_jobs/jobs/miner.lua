@@ -235,11 +235,11 @@ Config.Jobs.miner = {
         }
       },
       Hint  = _U('m_deliver_gold'),
-      GPS = {x = -637.159, y = -239.316, z = 40.0566}
+      GPS = {x = -637.159, y = -239.316, z = 37.0566}
     },
 
     DiamondDelivery = {
-      Pos   = {x = -637.159, y = -239.316, z = 40.0566},
+      Pos   = {x = -637.159, y = -239.316, z = 37.0566},
       Color = {r = 204, g = 204, b = 0},
       Size  = {x = 5.0, y = 5.0, z = 3.0},
       Color = {r = 204, g = 204, b = 0},

@@ -21,7 +21,7 @@ html {
   display:  none;
 }
 
-#hud {
+/*#hud {
   position   : absolute;
   font-family: 'Mina';
   font-size  : 20px;
@@ -37,7 +37,7 @@ html {
   bottom    : 235;
   left      : 25;
 }
-
+*/
 #inventory_notifications {
   font-family: bankgothic; 
   position   : absolute; 
