@@ -32,6 +32,10 @@ mysql-aync;
 
 vSync;
 
+esx_skin;
+
+
+
 # ADDONS TESTADO NAO FUNCIONANDO OU BUGADO
 
 esx_jobs;
@@ -51,4 +55,4 @@ skinchanger;
 
 # ADDONS A SEREM ADICIONADOS
 
-esx_society
+esx_society;
